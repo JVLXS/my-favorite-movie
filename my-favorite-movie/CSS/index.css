@@ -1,0 +1,35 @@
+.mainTitle{
+    text-align: center;
+    border: 1em groove silver;
+    max-width: 60%;
+    margin: auto;
+}
+
+.movieList{
+    text-align: center;
+    border: 1em solid silver;
+    border-style:groove;
+    margin-top: 3em;
+    margin-left: 1em;
+    margin-right: 1em;
+
+}
+
+.movie{
+    border: 0.5em solid rgb(160, 101, 13);
+    margin: 1em;
+    padding: 1em;
+
+}
+
+.video{
+    border: 1em groove goldenrod;
+    margin-top: 3em;
+    margin-left: 1em;
+    margin-right: 1em;
+    text-align: center;
+}
+
+.video, iframe{
+    margin: 1em;
+}
